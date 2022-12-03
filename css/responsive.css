@@ -1,0 +1,992 @@
+@media (min-width: 279px) and (max-width: 319px){
+/*start code*/
+.header{
+	padding: 30px 0px;
+}
+.header .menu .navbar-brand{
+	text-align: center;
+	padding: 20px;
+}
+.header .menu .navbar-brand img{
+	width: 70%;
+}
+.header .menu .navbar-toggler{
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 0px;
+}
+.header .menu .navbar-toggler .fa{
+	color: #fff;
+}
+.menu .navbar-toggler:focus{
+	box-shadow: 0 0 0 0rem rgb(13 110 253 / 25%);
+}
+.navbar-collapse{
+	    margin: 15px 0px 0px;
+}
+.header .menu .navbar-nav .nav-item .nav-link{
+	font-size: 16px;
+	line-height: 26px;
+}
+.header .menu .navbar-collapse .search-btn{
+	padding: 20px 25px;
+}
+.header .banner{
+	padding: 30px 0px;
+}
+.header .banner .banner-inner h1{
+	font-size: 20px;
+    line-height: 30px;
+}
+.header .banner .banner-inner p{
+	font-size: 9px;
+    line-height: 19px;
+}
+.header .banner .banner-inner .inner-btn .btn-primary{
+	padding: 7px 15px;
+}
+
+.header .banner .banner-inner .inner-btn .btn-success{
+	padding: 5px 12px;
+	margin: 10px 0px 0px;
+}
+.header .banner .img-edit{
+	    padding: 20px 70px;
+}
+
+.feature{
+	padding: 30px 0px;
+}
+.feature .feature-inner{
+	padding: 30px 0px 0px 0px;
+    text-align: center;
+}
+.feature .feature-inner h2{
+	font-size: 22px;
+    line-height: 32px;
+}
+.feature .feature-inner p{
+	    font-size: 10px;
+    line-height: 20px;
+}
+.feature .feature-inner .inner-btn .btn-primary{
+	font-size: 16px;
+    padding: 5px 15px;
+}
+.feature .feature-img{
+	    padding: 20px;
+}
+
+.feature .feature-img .shape-img-2{
+	width: 50%;
+	left: 25%;
+    top: 78%;
+}
+
+.care{
+	    padding: 30px 0px;
+}
+.care .care-title{
+	padding: 20px 0px 20px;
+}
+.care .care-title h1{
+	    font-size: 24px;
+    line-height: 34px;
+}
+.care .care-title p{
+	font-size: 10px;
+    line-height: 20px;
+}
+.care .inner-care{
+	    padding: 10px 30px 10px 50px;
+}
+.care .inner-care h3{
+	font-size: 20px;
+	line-height: 30px;
+}
+.care .inner-care p{
+	font-size: 10px;
+    line-height: 20px;
+}
+.video{
+	padding: 40px 0px;
+}
+.video .video-img{
+	padding: 20px;
+}
+.video .video-img .shape-img-2{
+	width: 50%;
+    left: 23%;
+    bottom: -20%;
+    transform: translate(50%,-50%);
+}
+.video .video-inner {
+    width: 100%;
+    padding: 40px 15px;
+    text-align: center;
+}
+.video .video-inner h2{
+	font-size: 20px;
+    line-height: 30px;
+}
+.video .video-inner p{
+	font-size: 10px;
+    line-height: 20px;
+}
+.video .video-inner .inner-btn .btn-primary{
+	padding: 5px 15px;
+}
+.selling{
+	padding: 30px 0px;
+}
+.selling .sell-title{
+	padding: 20px 10px;
+}
+.selling .sell-title h1{
+	font-size: 22px;
+    line-height: 32px;
+}
+.selling .sell-title p{
+	font-size: 10px;
+    line-height: 20px;
+}
+.selling .inner-sell{
+	padding: 10px 20px 10px 40px;
+}
+.selling .inner-sell .text-box h3{
+	font-size: 20px;
+	line-height: 30px;
+}
+.selling .inner-sell .btn-primary{
+	padding: 5px 15px;
+}
+.about-us{
+	padding: 30px 0px;
+}
+.about-us .about-title{
+	padding: 20px 10px 20px;
+}
+.about-us .about-title h1{
+	font-size: 22px;
+    line-height: 32px;
+}
+.about-us .about-title p{
+	font-size: 10px;
+    line-height: 20px;
+}
+.about-us .inner-about{
+	padding: 10px 20px 10px 40px;
+}
+.about-us .inner-about h3{
+	font-size: 20px;
+	line-height: 30px;
+}
+.about-us .inner-about p{
+	    font-size: 13px;
+    line-height: 23px;
+
+}
+.about-us .inner-about .social-icons ul li a{
+	  width: 25px;
+    height: 25px;
+    line-height: 25px;
+}
+.counting{
+	padding: 30px 0px;
+}
+.counting .inner-counting{
+	    padding: 20px 0px;
+}
+.counting .inner-counting i{
+	    font-size: 40px;
+}
+.post{
+	padding: 30px 0px;
+}
+.post .post-title{
+	padding: 20px 10px 20px;
+}
+.post .post-title h1{
+	font-size: 24px;
+    line-height: 34px;
+}
+.post .post-title p{
+	font-size: 10px;
+    line-height: 20px;
+}
+.post .inner-post{
+	padding: 10px 10px 10px 30px;
+    text-align: center;
+}
+.post .inner-post .text-box{
+	padding: 10px 10px;
+}
+.post .inner-post .text-box h4{
+	font-size: 20px;
+	line-height: 30px;
+}
+.post .inner-post .text-box p{
+	font-size: 12px;
+	line-height: 22px;
+}
+.footer{
+	padding: 30px 0px;
+}
+.footer .footer-body{
+	padding: 20px 10px;
+    text-align: center;
+}
+.footer .footer-title{
+	padding: 20px 15px;
+    text-align: center;
+}
+.footer .footer-title .form-control{
+	font-size: 16px;
+    border: 0px;
+    border-radius: 0px;
+    background: #fcc302;
+    padding: 8px 15px;
+}
+.footer .footer-title .btn-success{
+	padding: 8px 25px;
+}
+
+/*end code*/
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+/*start code*/
+.header{
+	padding: 30px 0px;
+}
+.header .menu .navbar-brand img{
+	width: 70%;
+}
+.header .menu .navbar-toggler{
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 0px;
+}
+.header .menu .navbar-toggler .fa{
+	color: #fff;
+}
+.menu .navbar-toggler:focus{
+	box-shadow: 0 0 0 0rem rgb(13 110 253 / 25%);
+}
+.navbar-collapse{
+	    margin: 15px 0px 0px;
+}
+.header .menu .navbar-nav .nav-item .nav-link{
+	font-size: 16px;
+	line-height: 26px;
+}
+.header .menu .navbar-collapse .search-btn{
+	padding: 20px 25px;
+}
+.header .banner{
+	padding: 30px 0px;
+}
+.header .banner .banner-inner h1{
+	font-size: 28px;
+    line-height: 38px;
+}
+.header .banner .banner-inner p{
+	font-size: 12px;
+    line-height: 22px;
+}
+
+.header .banner .banner-inner .inner-btn .btn-primary{
+	    margin: 20px 15px 20px 0px;
+}
+.header .banner .img-edit{
+	    padding: 20px 70px;
+}
+
+.feature{
+	padding: 30px 0px;
+}
+.feature .feature-inner{
+	padding: 30px 0px 0px 0px;
+    text-align: center;
+}
+.feature .feature-inner h2{
+	font-size: 28px;
+    line-height: 38px;
+}
+.feature .feature-inner p{
+	    font-size: 12px;
+    line-height: 22px;
+}
+.feature .feature-inner .inner-btn .btn-primary{
+	    font-size: 16px;
+    padding: 8px 22px;
+}
+.feature .feature-img{
+	    padding: 20px;
+}
+.feature .feature-img .shape-img-2{
+	width: 50%;
+	left: 25%;
+    top: 78%;
+}
+.care{
+	    padding: 30px 0px;
+}
+.care .care-title{
+	padding: 30px 0px 20px;
+}
+.care .care-title h1{
+	    font-size: 32px;
+    line-height: 42px;
+}
+.care .care-title p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.care .inner-care{
+	    padding: 20px 40px 20px 50px;
+}
+.care .inner-care p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.video{
+	padding: 40px 0px;
+}
+.video .video-img{
+	padding: 20px;
+}
+.video .video-img .shape-img-2{
+	width: 50%;
+	left: 24%;
+    bottom: -21%;
+    transform: translate(50%,-50%);
+}
+.video .video-inner {
+    width: 100%;
+    padding: 40px 15px;
+    text-align: center;
+}
+.video .video-inner h2{
+	font-size: 28px;
+    line-height: 38px;
+}
+.video .video-inner p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.video .video-inner .inner-btn .btn-primary{
+	padding: 8px 22px;
+}
+.selling{
+	padding: 30px 0px;
+}
+.selling .sell-title{
+	padding: 20px 10px;
+}
+.selling .sell-title h1{
+	font-size: 34px;
+    line-height: 44px;
+}
+.selling .sell-title p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.selling .inner-sell{
+	padding: 20px 30px 20px 50px;
+}
+.selling .inner-sell .btn-primary{
+	padding: 8px 20px;
+}
+.about-us{
+	padding: 30px 0px;
+}
+.about-us .about-title{
+	padding: 20px 10px 20px;
+}
+.about-us .about-title h1{
+	font-size: 28px;
+    line-height: 38px;
+}
+.about-us .about-title p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.about-us .inner-about{
+	padding: 20px 30px 20px 50px;
+}
+.about-us .inner-about p{
+	    font-size: 16px;
+    line-height: 26px;
+
+}
+.counting{
+	padding: 30px 0px;
+}
+.counting .inner-counting{
+	    padding: 30px 0px;
+}
+.counting .inner-counting i{
+	    font-size: 50px;
+}
+.post{
+	padding: 30px 0px;
+}
+.post .post-title{
+	padding: 20px 10px 20px;
+}
+.post .post-title h1{
+	font-size: 30px;
+    line-height: 40px;
+}
+.post .post-title p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.post .inner-post{
+	padding: 20px 30px 20px 50px;
+    text-align: center;
+}
+.post .inner-post .text-box{
+	padding: 15px 12px;
+}
+.footer{
+	padding: 30px 0px;
+}
+.footer .footer-body{
+	padding: 20px 10px;
+    text-align: center;
+}
+.footer .footer-title{
+	padding: 20px 15px;
+    text-align: center;
+}
+
+/*end code*/
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+/*start code*/
+/*.header{
+	padding: 30px 0px;
+}
+.header .menu .navbar-brand img{
+	width: 70%;
+}
+.header .menu .navbar-toggler{
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 0px;
+}
+.header .menu .navbar-toggler .fa{
+	color: #fff;
+}
+.menu .navbar-toggler:focus{
+	box-shadow: 0 0 0 0rem rgb(13 110 253 / 25%);
+}
+.navbar-collapse{
+	    margin: 15px 0px 0px;
+}
+.header .menu .navbar-nav .nav-item .nav-link{
+	font-size: 16px;
+	line-height: 26px;
+}
+.header .menu .navbar-collapse .search-btn{
+	padding: 20px 25px;
+}
+.header .banner{
+	padding: 30px 0px;
+}
+.header .banner .banner-inner h1{
+	font-size: 28px;
+    line-height: 38px;
+}
+.header .banner .banner-inner p{
+	font-size: 12px;
+    line-height: 22px;
+}
+.header .banner .banner-inner .inner-btn .btn-success{
+	padding: 10px 19px;
+	margin: 20px 0px 0px;
+}
+.header .banner .img-edit{
+	    padding: 20px 70px;
+}
+
+.feature{
+	padding: 30px 0px;
+}
+.feature .feature-inner{
+	padding: 30px 0px 0px 0px;
+    text-align: center;
+}
+.feature .feature-inner h2{
+	font-size: 28px;
+    line-height: 38px;
+}
+.feature .feature-inner p{
+	    font-size: 12px;
+    line-height: 22px;
+}
+.feature .feature-inner .inner-btn .btn-primary{
+	    font-size: 16px;
+    padding: 8px 22px;
+}
+.feature .feature-img{
+	    padding: 20px;
+}
+.feature .feature-img .shape-img-2{
+	left: 35%;
+    bottom: -29%;
+}
+.care{
+	    padding: 30px 0px;
+}
+.care .care-title{
+	padding: 30px 0px 20px;
+}
+.care .care-title h1{
+	    font-size: 32px;
+    line-height: 42px;
+}
+.care .care-title p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.care .inner-care{
+	    padding: 20px 40px 20px 50px;
+}
+.care .inner-care p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.video{
+	padding: 40px 0px;
+}
+.video .video-img{
+	padding: 20px;
+}
+.video .video-img .shape-img-2{
+	left: 17%;
+    bottom: -30%;
+    transform: translate(20%,-50%);
+}
+.video .video-inner {
+    width: 100%;
+    padding: 40px 15px;
+    text-align: center;
+}
+.video .video-inner h2{
+	font-size: 28px;
+    line-height: 38px;
+}
+.video .video-inner p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.video .video-inner .inner-btn .btn-primary{
+	padding: 8px 22px;
+}
+.selling{
+	padding: 30px 0px;
+}
+.selling .sell-title{
+	padding: 20px 10px;
+}
+.selling .sell-title h1{
+	font-size: 34px;
+    line-height: 44px;
+}
+.selling .sell-title p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.selling .inner-sell{
+	padding: 20px 30px 20px 50px;
+}
+.selling .inner-sell .btn-primary{
+	padding: 8px 20px;
+}
+.about-us{
+	padding: 30px 0px;
+}
+.about-us .about-title{
+	padding: 20px 10px 20px;
+}
+.about-us .about-title h1{
+	font-size: 28px;
+    line-height: 38px;
+}
+.about-us .about-title p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.about-us .inner-about{
+	padding: 20px 30px 20px 50px;
+}
+.about-us .inner-about p{
+	    font-size: 16px;
+    line-height: 26px;
+
+}
+.counting{
+	padding: 30px 0px;
+}
+.counting .inner-counting{
+	    padding: 30px 0px;
+}
+.counting .inner-counting i{
+	    font-size: 50px;
+}
+.post{
+	padding: 30px 0px;
+}
+.post .post-title{
+	padding: 20px 10px 20px;
+}
+.post .post-title h1{
+	font-size: 30px;
+    line-height: 40px;
+}
+.post .post-title p{
+	font-size: 13px;
+    line-height: 23px;
+}
+.post .inner-post{
+	padding: 20px 30px 20px 50px;
+    text-align: center;
+}
+.post .inner-post .text-box{
+	padding: 15px 12px;
+}
+.footer{
+	padding: 30px 0px;
+}
+.footer .footer-body{
+	padding: 20px 10px;
+    text-align: center;
+}
+.footer .footer-title{
+	padding: 20px 15px;
+    text-align: center;
+}*/
+.header{
+	padding: 60px 0px;
+}
+.header .menu .navbar-brand img{
+	width: 80%;
+}
+.header .menu .navbar-toggler{
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 0px;
+}
+.header .menu .navbar-toggler .fa{
+	color: #fff;
+}
+.menu .navbar-toggler:focus{
+	box-shadow: 0 0 0 0rem rgb(13 110 253 / 25%);
+}
+.navbar-collapse{
+	    margin: 15px 0px 0px;
+}
+.header .menu .navbar-nav .nav-item .nav-link{
+	font-size: 18px;
+	line-height: 28px;
+}
+.header .menu .navbar-collapse .form-control{
+	    padding: 12px 20px;
+}
+.header .menu .navbar-collapse .btn-success{
+	padding: 12px 40px;
+}
+.header .menu .navbar-collapse .search-btn{
+	padding: 20px 25px;
+}
+.header .banner{
+	padding: 50px 0px;
+}
+.header .banner .banner-inner{
+	width: 100%;
+    margin: 80px 0px 0px;
+    text-align: center;
+}
+.header .banner .banner-inner h1{
+	font-size: 48px;
+    line-height: 58px;
+}
+.header .banner .banner-inner p{
+	font-size: 20px;
+    line-height: 30px;
+}
+.header .banner .banner-inner .inner-btn .btn-primary{
+	padding: 12px 22px;
+}
+.header .banner .banner-inner .inner-btn .btn-success{
+	padding: 10px 20px;
+}
+.header .banner .img-edit{
+	width: 50%;
+    margin: 20px 0px 0px 160px;
+}
+
+
+.feature{
+	padding: 60px 0px;
+}
+.feature .feature-inner{
+	padding: 40px 40px 0px;
+    text-align: center;
+}
+.feature .feature-img .shape-img-2 {
+    width: 40%;
+    height: auto;
+    position: absolute;
+    left: 25%;
+    bottom: -12%;
+    transform: translate(-50%,-50%);
+    z-index: -3;
+}
+.care{
+	    padding: 60px 0px;
+}
+.care .care-title{
+	padding: 40px 0px 20px;
+}
+
+.video{
+	padding: 60px 0px;
+}
+.video .video-img{
+	padding: 40px;
+}
+.video .video-img .shape-img-2{
+	left: 38%;
+    bottom: -15%;
+}
+
+.video .video-inner {
+    width: 100%;
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.selling{
+	padding: 60px 0px;
+}
+.selling .sell-title{
+	padding: 20px 10px;
+}
+.selling .inner-sell{
+	padding: 60px;
+}
+.selling .inner-sell .btn-primary{
+	font-size: 20px;
+	padding: 15px 50px;
+}
+
+.about-us{
+	padding: 60px 0px;
+}
+.about-us .about-title{
+	padding: 20px 10px 20px;
+}
+.about-us .inner-about{
+	padding: 60px;
+}
+
+.counting{
+	padding: 60px 0px;
+}
+.counting .inner-counting{
+	    padding: 30px 0px;
+}
+
+.post{
+	padding: 60px 0px;
+}
+.post .post-title{
+	padding: 20px 10px 20px;
+}
+.post .inner-post{
+	padding: 60px;
+	text-align: center;
+}
+
+.footer{
+	padding: 60px 0px;
+}
+
+.footer .footer-body{
+	padding: 20px 10px;
+    text-align: center;
+}
+.footer .footer-title{
+	padding: 30px 60px;
+    text-align: center;
+}
+
+
+/*end code*/
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+/*start code*/
+.header{
+	padding: 60px 0px;
+}
+.header .menu .navbar-brand img{
+	width: 80%;
+}
+.header .menu .navbar-toggler{
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 0px;
+}
+.header .menu .navbar-toggler .fa{
+	color: #fff;
+}
+.menu .navbar-toggler:focus{
+	box-shadow: 0 0 0 0rem rgb(13 110 253 / 25%);
+}
+.navbar-collapse{
+	    margin: 15px 0px 0px;
+}
+.header .menu .navbar-nav .nav-item .nav-link{
+	font-size: 18px;
+	line-height: 28px;
+}
+.header .menu .navbar-collapse .form-control{
+	    padding: 12px 20px;
+}
+.header .menu .navbar-collapse .btn-success{
+	padding: 12px 40px;
+}
+.header .menu .navbar-collapse .search-btn{
+	padding: 20px 25px;
+}
+.header .banner{
+	padding: 50px 0px;
+}
+.header .banner .banner-inner{
+	width: 100%;
+    margin: 80px 0px 0px;
+    text-align: center;
+}
+.header .banner .banner-inner h1{
+	font-size: 48px;
+    line-height: 58px;
+}
+.header .banner .banner-inner p{
+	font-size: 20px;
+    line-height: 30px;
+}
+.header .banner .banner-inner .inner-btn .btn-primary{
+	padding: 12px 22px;
+}
+.header .banner .banner-inner .inner-btn .btn-success{
+	padding: 10px 20px;
+}
+.header .banner .img-edit{
+	width: 50%;
+    margin: 20px 0px 0px 210px;
+}
+
+
+.feature{
+	padding: 60px 0px;
+}
+.feature .feature-inner{
+	padding: 40px 40px 0px;
+    text-align: center;
+}
+.feature .feature-img .shape-img-2 {
+    width: 40%;
+    height: auto;
+    position: absolute;
+    left: 25%;
+    bottom: -12%;
+    transform: translate(-50%,-50%);
+    z-index: -3;
+}
+.care{
+	    padding: 60px 0px;
+}
+.care .care-title{
+	padding: 40px 0px 20px;
+}
+
+.video{
+	padding: 60px 0px;
+}
+.video .video-img{
+	padding: 40px;
+}
+.video .video-img .shape-img-2{
+	left: 38%;
+    bottom: -15%;
+}
+
+.video .video-inner {
+    width: 100%;
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.selling{
+	padding: 60px 0px;
+}
+.selling .sell-title{
+	padding: 20px 10px;
+}
+.selling .inner-sell{
+	padding: 60px;
+}
+.selling .inner-sell .btn-primary{
+	font-size: 20px;
+	padding: 15px 50px;
+}
+
+.about-us{
+	padding: 60px 0px;
+}
+.about-us .about-title{
+	padding: 20px 10px 20px;
+}
+.about-us .inner-about{
+	padding: 60px;
+}
+
+.counting{
+	padding: 60px 0px;
+}
+.counting .inner-counting{
+	    padding: 30px 0px;
+}
+
+.post{
+	padding: 60px 0px;
+}
+.post .post-title{
+	padding: 20px 10px 20px;
+}
+.post .inner-post{
+	padding: 60px;
+	text-align: center;
+}
+
+.footer{
+	padding: 60px 0px;
+}
+
+.footer .footer-body{
+	padding: 20px 10px;
+    text-align: center;
+}
+.footer .footer-title{
+	padding: 30px 60px;
+    text-align: center;
+}
+
+/*end code*/
+}
